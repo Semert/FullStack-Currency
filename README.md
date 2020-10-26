@@ -1,6 +1,6 @@
 ## Used Packages and Techs
 
-1. `Create React App`
+1. `React`
 2. `Axios`
 3. `React Router Dom`
 4. `Material UI`
