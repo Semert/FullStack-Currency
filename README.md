@@ -20,6 +20,8 @@ Once again for the backend and frontend you need to "npm start" seperately via c
 
 API used: `https://www.tcmb.gov.tr/kurlar/today.xml`
 
+API changes daily.
+
 
 
 
