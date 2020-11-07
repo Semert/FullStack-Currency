@@ -12,7 +12,6 @@
 
 ### `npm install`
 For the backend and frontend you need to "npm install" seperately via changing directory.
-
 ### `npm start`
 Once again for the backend and frontend you need to "npm start" seperately via changing directory.
 
